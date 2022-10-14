@@ -2,6 +2,7 @@
 # planetoffinance-clone
 
 1- run npx react-native start
+
 2- run npx react-native run-android
 
 
