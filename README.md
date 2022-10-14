@@ -1,7 +1,7 @@
 # planetoffinance-clone
 In the project directory, you can run:
 
-1- npx react-native start
+1- npx react-native start\n
 Runs the app in the development mode.
 
 2- npx react-native run-android
