@@ -1,7 +1,8 @@
 
 # planetoffinance-clone
 
-A brief description of what this project does and who it's for
+1- run npx react-native start
+2- run npx react-native run-android
 
 
 ## Screenshots
