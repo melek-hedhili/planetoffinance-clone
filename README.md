@@ -8,9 +8,11 @@
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/56758372/195958349-3c85f889-0f74-46d6-873e-27aeab6f2159.PNG)
-![App Screenshot](https://user-images.githubusercontent.com/56758372/195958383-ceb3e4bd-24bb-4912-a608-51ae6a1cdab7.PNG)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/56758372/195958349-3c85f889-0f74-46d6-873e-27aeab6f2159.PNG"/>
+  <img src="https://user-images.githubusercontent.com/56758372/195958383-ceb3e4bd-24bb-4912-a608-51ae6a1cdab7.PNG"/> 
 
+</p>
 ## Demo
 
 Demo link
